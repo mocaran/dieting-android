@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Dieting</string>
+    <string name="title_activity_main">Dieting</string>
+    <string name="package_name">com.dieting.offline</string>
+    <string name="custom_url_scheme">com.dieting.offline</string>
+</resources>
