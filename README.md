@@ -4,6 +4,8 @@
 
 Dieting 单机版是一款离线的个人健康与日常记账应用。可记录饮食、热量、步行和跑步、体重及收支，并查看趋势。打开即可使用，记录保存在本机。支持 JSON 备份与恢复，也可导出 CSV。
 
+**[下载 Android APK](https://github.com/mocaran/dieting-android/releases/latest)**
+
 在 Android 7.0 或更新版本上安装 `Dieting-1.2-offline.apk`。单机版可与旧版同时安装。要迁移旧记录，请先导出完整 JSON 备份，再在单机版的「设置 → 备份与数据」中导入。
 
 ### 构建 Android
